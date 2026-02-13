@@ -1,0 +1,16 @@
+{
+  "name": "princesse-dark-lady",
+  "version": "1.0.0",
+  "description": "Bot par princesse dark lady",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.16.1",
+    "wa-sticker-formatter": "^4.4.4",
+    "fs-extra": "^11.1.1"
+  }
+}
